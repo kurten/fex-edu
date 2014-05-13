@@ -12,7 +12,7 @@ FEX 学院
 
 协议
 
-- [ ] [HTTP 1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)、[HTTP 2.0](http://http2.github.io/)
+- [x] [HTTP 1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)、[HTTP 2.0](http://http2.github.io/)
 - [ ] [TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security)
 - [ ] [TCP](http://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - [ ] [QUIC](http://en.wikipedia.org/wiki/QUIC)
@@ -70,11 +70,11 @@ FEX 学院
 
 - [ ] 《[The C++ Programming Language](http://book.douban.com/subject/7053134/)》
 - [ ] 《[C in a nutshell](http://book.douban.com/subject/1925110/)》 reading
-- [ ] 《[The Ruby Programming Language](http://book.douban.com/subject/2337297/)》 reading
+- [ ] 《[The Ruby Programming Language](http://book.douban.com/subject/2337297/)》 //想学是因为看了《[松本行弘的程序世界](http://book.douban.com/subject/6756090/)》
 - [x] 《[CoffeeScript, Accelerated JavaScript Development](http://book.douban.com/subject/6310125/)》
 - [ ] 《[Effective JavaScript](http://book.douban.com/subject/25786138/)》
 - [ ] 《[Ecma-262 5ed](http://www.ecma-international.org/publications/standards/Ecma-262.htm)》 《[Ecma-262 6ed draft](https://people.mozilla.org/~jorendorff/es6-draft.html)》
-- [ ] 《[Programming Erlang](http://book.douban.com/subject/24385069/)》
+- [ ] 《[Programming Erlang](http://book.douban.com/subject/24385069/)》 //看过第一版感觉不错，想看看第二版
 
 
 
@@ -126,6 +126,7 @@ FEX 学院
 - [ ] 《[影响力](http://book.douban.com/subject/6712294/)》
 - [ ] 《[如何高效学习](http://book.douban.com/subject/25783654/)》
 
+
 ## 架构
 
 - [ ] 《[系统之美 : 决策者的系统思考](http://book.douban.com/subject/11528220/)》
@@ -152,7 +153,7 @@ FEX 学院
 - [ ] 《[NoSQL Distilled](http://book.douban.com/subject/7952514/)》
 - [ ] 《[High Performance MySQL](http://book.douban.com/subject/10443458/)》《[高性能MySQL](http://book.douban.com/subject/23008813/)》
 - [ ] 《[MongoDB权威指南](http://book.douban.com/subject/25798102/)》
-- [ ] [nosql reading list papers](http://www.empiricalreality.com/2010/09/22/2010-nosql-summer-reading-list/) //已经读了前面一部分
+- [ ]  [nosql reading list papers](http://www.empiricalreality.com/2010/09/22/2010-nosql-summer-reading-list/) //已经读了前面一部分
 
 ## 行业
 
