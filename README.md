@@ -1,22 +1,12 @@
 FEX 学院
 =======
 
-这里将列出可以学习的各种知识，不要求大家都掌握，仅作为学习参考。
+虽然不是搞前端的，但是项目需要也会做点前端的活，不过很多技术点是相通的，从fex-edu项目fork过来，算是给自己做个记录吧。
 
-请勿在这个页面上打钩，而应该 Fork 到自己的目录下操作。
-
-本页内容编辑的主要原则：
-
-- 尽量放实用的新技术，而不是过时的技术，如 hasLayout
-- 人人都会的就不放了，如 Firebug
-- 层次结构不要太深
-- 不求全，挑几个最好的就可以了
-- 没几个人喜欢的技术就不列了，比如 GWT
-- 图书名称要加书名号，有中文版也列在同一行，链接指向豆瓣
 
 ## 前端工具
 
-- [ ] [FIS](http://fis.baidu.com/)
+- [x] [grunt](http://gruntjs.org)
 
 ## 网络相关
 
@@ -46,14 +36,15 @@ FEX 学院
 - [ ] 《[The Complete Manual of Typography](http://book.douban.com/subject/7070562/)》
 
 ## 前端框架
-
+- [x] [jQuery](http://jquery.com/)
+- [x] [bootstrap](http://getbootstrap.com/)
 - [ ] [Angular](http://angularjs.org/)
 - [ ] [React](http://facebook.github.io/react/)
 
 ## CSS 及 UI
 
-- [ ] [Sass](http://sass-lang.com/)
-- [ ] [Compass](http://compass-style.org/)
+- [x] [Sass](http://sass-lang.com/)
+- [x] [Compass](http://compass-style.org/)
 - [ ] [Bourbon](http://bourbon.io/)
 - [ ] [Bootswatch](http://bootswatch.com/)
 - [ ] [Semantic UI](http://semantic-ui.com/)
@@ -68,11 +59,12 @@ FEX 学院
 
 - [ ] [BaiduTemplate](https://github.com/BaiduFE/BaiduTemplate)
 - [ ] [EJS](https://github.com/visionmedia/ejs)
+- [x] [linkedin-dustjs](https://github.com/linkedin/dustjs)
 
 ## JavaScript/DOM
 
 - [ ] [TypeScript](http://www.typescriptlang.org/)
-- [ ] 《[Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)》
+- [x] 《[Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)》
 
 ## 编码及转义
 
@@ -105,10 +97,11 @@ FEX 学院
 
 ## 浏览器
 
-- [ ] [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [x] [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 ## Node
 
+- [x] [nodejs](http://nodejs.org)
 
 
 ## 个人成长
@@ -128,7 +121,7 @@ FEX 学院
 
 ## 软件工程
 
-- [ ] 《[Joel谈优秀软件开发方法](http://book.douban.com/subject/2193777/)》
+- [x] 《[Joel谈优秀软件开发方法](http://book.douban.com/subject/2193777/)》
 
 ## 计算机基础
 
@@ -148,5 +141,5 @@ FEX 学院
 
 ## 行业
 
-- [ ] 《[黑客与画家](http://book.douban.com/subject/6021440/)》
-- [ ] 《[浪潮之巅](http://book.douban.com/subject/6709783/)》
+- [x] 《[黑客与画家](http://book.douban.com/subject/6021440/)》
+- [x] 《[浪潮之巅](http://book.douban.com/subject/6709783/)》
