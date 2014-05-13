@@ -66,6 +66,18 @@ FEX 学院
 - [ ] [TypeScript](http://www.typescriptlang.org/)
 - [x] 《[Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)》
 
+## 编程语言
+
+- [ ] 《[The C++ Programming Language](http://book.douban.com/subject/7053134/)》
+- [ ] 《[C in a nutshell](http://book.douban.com/subject/1925110/)》 reading
+- [ ] 《[The Ruby Programming Language](http://book.douban.com/subject/2337297/)》 reading
+- [x] 《[CoffeeScript, Accelerated JavaScript Development](http://book.douban.com/subject/6310125/)》
+- [ ] 《[Effective JavaScript](http://book.douban.com/subject/25786138/)》
+- [ ] 《[Ecma-262 5ed](http://www.ecma-international.org/publications/standards/Ecma-262.htm)》 《[Ecma-262 6ed draft](https://people.mozilla.org/~jorendorff/es6-draft.html)》
+- [ ] 《[Programming Erlang](http://book.douban.com/subject/24385069/)》
+
+
+
 ## 编码及转义
 
 - [ ] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
@@ -132,12 +144,15 @@ FEX 学院
 - [ ] 《[Computer Architecture, Fifth Edition : A Quantitative Approach](http://book.douban.com/subject/6795919/)》《[计算机体系结构](http://book.douban.com/subject/7006537/)》
 - [ ] 《[程序员的自我修养](http://book.douban.com/subject/3652388/)》
 - [ ] 《[Computer Systems](http://book.douban.com/subject/3023631/)》《[深入理解计算机系统（原书第2版）](http://book.douban.com/subject/5407246/)》
+- [ ] 《[Professional Linux Kernel Architecture](http://book.douban.com/subject/3244090/)>
+- [ ] 《[Distributed Systems - Concepts and Design，Operation Systems Design and Implementation](http://book.douban.com/subject/2698938/)》
 
 ## 数据库
 
 - [ ] 《[NoSQL Distilled](http://book.douban.com/subject/7952514/)》
 - [ ] 《[High Performance MySQL](http://book.douban.com/subject/10443458/)》《[高性能MySQL](http://book.douban.com/subject/23008813/)》
 - [ ] 《[MongoDB权威指南](http://book.douban.com/subject/25798102/)》
+- [ ] [nosql reading list papers](http://www.empiricalreality.com/2010/09/22/2010-nosql-summer-reading-list/) //已经读了前面一部分
 
 ## 行业
 
